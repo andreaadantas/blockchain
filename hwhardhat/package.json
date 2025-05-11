@@ -1,0 +1,24 @@
+{
+  "name": "hwhardhat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "keywords": [],
+  "author": "Andrea Dantas",
+  "license": "ISC",
+  "description": " projeto hello world",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreaadantas/blockchain.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andreaadantas/blockchain/issues"
+  },
+  "homepage": "https://github.com/andreaadantas/blockchain#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.24.0"
+  }
+}
